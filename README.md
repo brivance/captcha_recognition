@@ -8,4 +8,8 @@ We are also exploring the development of a model capable of solving text-based c
 
 Training files:
 
-We use a ResNet50 for both the task of correctly identifying the solution to an image captcha and a text captcha. The training and results of the image task is found in image_training.ipynb. The training an results of the text task is found in text_training.ipynb.
+We use a ResNet50 for both the task of correctly identifying the solution to an image captcha and a text captcha. 
+
+The training and results of the image task is found in image_training.ipynb. 
+
+The training and results of the text task is found in text_training.ipynb.
